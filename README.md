@@ -20,7 +20,7 @@ preguntas de los usuarios.
 Clonar e installar dependencias.
 
 ```bash
-$ git clone 
+$ git clone https://github.com/palaciosnahuel/CIU-Parcial1.git
 npm install 
 ```
 
