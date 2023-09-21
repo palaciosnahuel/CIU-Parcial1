@@ -4,6 +4,9 @@
 Crear un chatbot simple en React que utilice un servicio de AI para responder a las
 preguntas de los usuarios.
 
+Online en :
+https://thriving-sunburst-6c3b2e.netlify.app/
+
 ### Requisitos
 
 1. Interfaz de Usuario:
