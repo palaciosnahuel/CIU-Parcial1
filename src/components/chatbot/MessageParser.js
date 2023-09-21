@@ -1,10 +1,8 @@
 import { fetchData } from "../../api/Api";
 
 class MessageParser {
-  constructor() {}
 
   async getResponse(userMessage) {
-    console.log("getResponse")
     let botResponseText;
     try {
       const apiResponse = await fetchData(userMessage);
